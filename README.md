@@ -36,6 +36,7 @@
 # Week 2
 
 ## Lecture Slides
+- Help
 - [C# Scripting](https://drive.google.com/open?id=1U8Hf1XGZqcuL0iyY4cU58LnDzW_UJQoW)
 
 
